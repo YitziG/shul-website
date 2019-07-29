@@ -1,9 +1,10 @@
 ---
 layout: default
 title: L'chaim Mishkafayim!
+header_background_image: 'images/sheep.jpg'
 ---
 
-<header>
+<header style="background-image: url({% include relative-src.html src=page.header_background_image %});">
 	<div class="container">
 		<div class="column">
 			<div>
@@ -17,9 +18,6 @@ title: L'chaim Mishkafayim!
 					<a href="#donate">Donate Now</a>
 				</div>
 			</div>
-		</div>
-		<div class="column">
-			<img src="{{ site.baseurl }}/images/sheep.jpg" alt="Sheep" />
 		</div>
 	</div>
 </header>

@@ -1,6 +1,6 @@
 # ----
 # Site
-
+port: 3000
 title: Cause Template
 url: https://hamerkazi.com
 baseurl:
@@ -69,6 +69,7 @@ exclude:
 # CloudCannon
 
 _options:
+  header_background_image:
   newsletter_background_image:
     width: 1880
     height: 1880
