@@ -1,7 +1,7 @@
 # ----
 # Site
 port: 3000
-title: Cause Template
+title:
 url: https://hamerkazi.com
 baseurl:
 google_analytics_key:
