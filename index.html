@@ -2,21 +2,24 @@
 layout: default
 title: L'chaim Mishkafayim!
 header_background_image: 'images/sheep.jpg'
+exclude: true
 ---
 
 <header style="background-image: url({% include relative-src.html src=page.header_background_image %});">
+	<nav>
+		<div class="container">
+			<a href="{{ site.baseurl }}">{% include logo.html %}</a>
+		</div>
+	</nav>
 	<div class="container">
 		<div class="column">
 			<div>
 				<h1 class="editable" data-i18n="title">
 					Beit Haknesset Hamerkazi Mishkafayim
 				</h1>
-				<p class="editable">
+				<p id = subtitle class="editable">
 					The "caravan".
 				</p>
-				<div class="button">
-					<a href="#donate">Donate Now</a>
-				</div>
 			</div>
 		</div>
 	</div>
