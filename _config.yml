@@ -52,7 +52,7 @@ defaults:
     values:
       layout: "default"
 
-newsletter_action: "//dev.us3.list-manage.com"
+newsletter_action: "https://dev.us3.list-manage.com/subscribe/post?u=b09b2da5019ebd5e9227a650f&amp;id=6a8e2f7711"
 donation_embed: '<script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe src="https://donorbox.org/embed/lets-build-our-shul" height="685px" width="100%" style="max-width:425px; min-width:310px; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>'
 
 plugins:
