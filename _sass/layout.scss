@@ -11,7 +11,6 @@ header {
   background-position: bottom left;
   background-size: cover;
     min-height: 500px;
-  padding-top: 50px;
 	padding-bottom: 50px;
 	@media #{$desktop} {
 		.container {
@@ -361,4 +360,8 @@ footer {
 .darker {
 	background: #f8fafb;
 	padding: 60px 0;
+}
+
+#subtitle{
+	color: #da4;
 }
