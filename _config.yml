@@ -2,7 +2,7 @@
 # Site
 port: 3000
 title:
-url: https://hamerkazi.com
+url: https://www.hamerkazi.com
 baseurl:
 google_analytics_key:
 
