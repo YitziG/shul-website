@@ -3,12 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7a38bc70-3775-4bdb-9e97-71639357a201" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/elements.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/elements.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/calendar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bootstrap/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/variables.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +60,7 @@
       <workItem from="1564667864970" duration="4179000" />
       <workItem from="1564906055690" duration="23000" />
       <workItem from="1564996257330" duration="4986000" />
+      <workItem from="1565719986920" duration="1149000" />
     </task>
     <servers />
   </component>
